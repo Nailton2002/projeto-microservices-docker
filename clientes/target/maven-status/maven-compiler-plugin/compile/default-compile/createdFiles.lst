@@ -1,0 +1,6 @@
+br\com\microservice\clientes\application\ClienteSaveRequest.class
+br\com\microservice\clientes\application\ClienteService.class
+br\com\microservice\clientes\application\ClienteResource.class
+br\com\microservice\clientes\domain\Cliente.class
+br\com\microservice\clientes\infra\repository\ClienteRepository.class
+br\com\microservice\clientes\ClientesApplication.class

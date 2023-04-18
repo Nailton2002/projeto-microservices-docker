@@ -1,0 +1,13 @@
+br\com\microservice\cartoes\domain\Cartao.class
+br\com\microservice\cartoes\infra\mqueue\EmissaoCartaoSubscriber.class
+br\com\microservice\cartoes\domain\DadosSolicitacaoEmissaoCartao.class
+br\com\microservice\cartoes\application\representation\CartoesPorClienteResponse.class
+br\com\microservice\cartoes\application\CartaoClienteService.class
+br\com\microservice\cartoes\application\representation\CartaoSaveRequest.class
+br\com\microservice\cartoes\application\CartaoService.class
+br\com\microservice\cartoes\infra\repository\CartaoClienteRepository.class
+br\com\microservice\cartoes\application\CartoesResource.class
+br\com\microservice\cartoes\domain\CartaoCliente.class
+br\com\microservice\cartoes\infra\repository\CartaoRepository.class
+br\com\microservice\cartoes\CartoesApplication.class
+br\com\microservice\cartoes\domain\BandeiraCartao.class
